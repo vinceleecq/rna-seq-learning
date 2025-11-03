@@ -1,0 +1,21 @@
+"","group","ajcc_pathologic_stage","gender","age_at_index","status","os.time"
+"TCGA-44-2668-11A-01R-1758-07","Normal","Stage IB","male",51,1,761
+"TCGA-50-5936-11A-01R-1628-07","Normal","Stage IIIA","male",58,1,257
+"TCGA-44-2661-11A-01R-1758-07","Normal","Stage IA","female",69,0,1159
+"TCGA-44-3398-11B-01R-1758-07","Normal","Stage IA","female",77,0,1163
+"TCGA-44-6776-11A-01R-1858-07","Normal","Stage IA","female",60,0,2616
+"TCGA-91-6831-11A-02R-1858-07","Normal","Stage IB","male",66,0,310
+"TCGA-50-5932-11A-01R-1755-07","Normal","Stage IIB","male",75,1,1235
+"TCGA-55-6984-11A-01R-1949-07","Normal","Stage IIB","female",71,1,760
+"TCGA-44-2657-11A-01R-1758-07","Normal","Stage IB","female",74,0,1351
+"TCGA-38-4627-11A-01R-1758-07","Normal","Stage IIA","female",64,1,1147
+"TCGA-69-7980-01A-11R-2187-07","Tumor","Stage I","female",70,0,411
+"TCGA-55-1592-01A-01R-0946-07","Tumor","Stage IA","male",65,1,701
+"TCGA-55-7727-01A-11R-2170-07","Tumor","Stage IIIA","male",70,0,119
+"TCGA-55-6972-01A-11R-1949-07","Tumor","Stage IB","male",72,1,1632
+"TCGA-49-AARE-01A-11R-A41B-07","Tumor","Stage IA","female",51,1,1229
+"TCGA-86-7713-01A-11R-2066-07","Tumor","Stage IIA","male",70,0,1157
+"TCGA-55-7913-01B-11R-2241-07","Tumor","Stage IA","female",61,1,561
+"TCGA-44-A47G-01A-21R-A24H-07","Tumor","Stage IA","female",73,0,351
+"TCGA-44-2662-01B-02R-A277-07","Tumor","Stage IB","male",65,0,1280
+"TCGA-44-5645-01A-01R-1628-07","Tumor","Stage IA","female",61,0,852
